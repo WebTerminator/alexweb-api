@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "projects",
+  "info": {
+    "name": "projects"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "description": {
+      "type": "richtext",
+      "required": true
+    },
+    "sortable": {
+      "type": "integer",
+      "private": false
+    },
+    "Title": {
+      "type": "string",
+      "private": true
+    }
+  }
+}

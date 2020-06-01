@@ -1,7 +1,7 @@
 'use strict';
 
 /**
- * Lifecycle callbacks for the `category` model.
+ * Lifecycle callbacks for the `bio` model.
  */
 
 module.exports = {
