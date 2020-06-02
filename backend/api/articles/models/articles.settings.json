@@ -33,7 +33,7 @@
       "type": "text"
     },
     "published": {
-      "required": true,
+      "required": false,
       "type": "datetime"
     }
   }
